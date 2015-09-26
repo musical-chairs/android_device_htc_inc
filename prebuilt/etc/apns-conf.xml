@@ -8,7 +8,7 @@
         user="*"
         server="*"
         password="*"
-        mmsc="http://mms.vtext.com/servlets/mms"
+        mmsc="http://69.78.81.38/servlets/mms"
     />
      <apn name="Production" 
          numeric="310012"  
@@ -16,6 +16,6 @@
          mnc="012"  
          apn="1" 
          mmsprotocol="2.0" 
-         mmsc="http://mms.vtext.com/servlets/mms"  
+         mmsc="http://69.78.81.38/servlets/mms"  
      />
 </apns>
